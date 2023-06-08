@@ -1,0 +1,51 @@
+staffid,locid,staffname,staffadd,staffcity,staffstate,staffzip,staffdob,staffdoj,staffsex,staffphone,staffemail
+11111,CODEN,"Rivers, Fritz T.",963-3321 Elementum Ave,Denver,CO,80202,23/04/2000,8/7/2021,M,1341940333,riversfritzt9980@yahoo.com
+11112,CODEN,"Wong, Herrod J.",396-7617 Posuere Ave,Denver,CO,80202,25/18/1982,20/18/2021,M,4484936162,wongherrodj1358@hotmail.com
+11113,CODEN,"Rivera, Marvin G.",Ap #454-2210 Nulla. Rd.,Denver,CO,80202,13/20/1982,13/16/2019,M,6102356664,riveramarving@hotmail.com
+11114,CODEN,"Cherry, Petra P.","554-2233 Est, Avenue",Denver,CO,80202,34/13/1969,34/11/2019,M,112202185,cherrypetrap@yahoo.com
+11115,CODEN,"Sampson, Alden T.","P.O. Box 702, 4487 Dui Ave",Denver,CO,80202,8/9/1970,18/27/2019,M,7918138814,sampsonaldent@google.com
+11116,COCOS,"Farrell, Camille J.","P.O. Box 736, 6359 Arcu. St.",Colorado Springs,CO,80904,21/18/1984,00/30/2018,F,7490711112,farrellcamillej3547@yahoo.com
+11117,COCOS,"Suarez, Freya E.",Ap #864-8969 Interdum Rd.,Colorado Springs,CO,80904,39/24/1975,12/30/2018,F,2263633307,suarezfreyae@yahoo.com
+11118,COCOS,"Serrano, Aquila U.","516-4953 Tortor, Av.",Colorado Springs,CO,80904,45/30/1986,30/04/2016,F,3282369424,serranoaquilau563@hotmail.com
+11119,COCOS,"Jenkins, Alan W.",Ap #117-789 Urna Rd.,Colorado Springs,CO,80904,46/20/1969,18/26/2017,M,9836524786,jenkinsalanw9798@yahoo.com
+11120,COCOS,"Bennett, Beatrice E.","P.O. Box 766, 1567 Torquent Rd.",Colorado Springs,CO,80904,58/16/1994,31/20/2018,F,1726745590,bennettbeatricee@hotmail.com
+11121,KSWIC,"Jefferson, Claire R.","P.O. Box 761, 2352 Nonummy Road",Wichita,KS,67216,16/16/1968,34/03/2018,F,5140948832,jeffersonclairer2360@google.com
+11122,KSWIC,"Ferrell, Jonas N.",Ap #198-6549 Ligula. Rd.,Wichita,KS,67216,33/19/2000,16/22/2015,M,9326176476,ferrelljonasn@google.com
+11123,KSWIC,"Dominguez, Ross J.",Ap #354-6564 In Av.,Wichita,KS,67216,3/2/1976,49/04/2019,M,3351451457,dominguezrossj6924@google.com
+11124,KSWIC,"Foreman, Herrod W.",Ap #966-5916 Magna. Road,Wichita,KS,67216,56/15/1997,8/6/2017,M,1653161127,foremanherrodw@google.com
+11125,KSWIC,"Salinas, Alma Y.",154-8480 Velit. Ave,Wichita,KS,67216,2/24/1998,52/16/2020,F,1425668635,salinasalmay2939@hotmail.com
+11126,KSTOP,"Townsend, Jayme G.",668-7233 Enim. Road,Topeka,KS,66607,45/24/1981,42/02/2017,M,2835357675,townsendjaymeg6247@google.com
+11127,KSTOP,"Spencer, Wendy F.",Ap #256-6781 Sed Ave,Topeka,KS,66607,59/22/1982,32/05/2016,F,4784183270,spencerwendyf@google.com
+11128,KSTOP,"Barrett, Reagan E.",Ap #363-6604 Aliquam Road,Topeka,KS,66607,4/21/1995,6/11/2020,M,2383789081,barrettreagane@hotmail.com
+11129,KSTOP,"Wiley, Ruby P.","P.O. Box 741, 3828 In Rd.",Topeka,KS,66607,55/06/1985,16/26/2022,F,2039558025,wileyrubyp@yahoo.com
+11130,KSTOP,"Gallegos, Dante T.",9369 Vitae Rd.,Topeka,KS,66607,27/05/1994,40/09/2019,M,1662773551,gallegosdantet@google.com
+11131,OKOKC,"Craft, Alisa K.","Ap #196-860 Vitae, Rd.",Oklahoma City,OK,73111,36/23/1992,19/15/2019,F,9167453331,craftalisak@hotmail.com
+11132,OKOKC,"Conley, Hillary R.",Ap #991-5585 Bibendum Ave,Oklahoma City,OK,73111,58/18/1990,22/17/2019,F,8378424451,conleyhillaryr1318@google.com
+11133,OKOKC,"O'Neill, William O.",6489 Eros Street,Oklahoma City,OK,73111,41/20/1995,51/30/2017,M,4714594445,oneillwilliamo@yahoo.com
+11134,OKOKC,"Rodriquez, Melodie X.",742-7347 Eu Avenue,Oklahoma City,OK,73111,58/28/1996,24/09/2021,F,4682475057,rodriquezmelodiex@hotmail.com
+11135,OKOKC,"Morris, Yetta Q.",8427 Ut Av.,Oklahoma City,OK,73111,09/31/1973,3/3/2016,F,8367422147,morrisyettaq@google.com
+11136,OKTUL,"Brooks, Sonia H.",Ap #347-7800 Lorem Rd.,Tulsa,OK,74146,35/22/1997,54/21/2016,F,3174584998,brookssoniah@hotmail.com
+11137,OKTUL,"Graves, Jamalia P.",953-4168 In Avenue,Tulsa,OK,74146,37/22/1981,59/08/2019,F,6524012403,gravesjamaliap4550@yahoo.com
+11138,OKTUL,"Flynn, TaShya R.",Ap #613-6093 Nullam St.,Tulsa,OK,74146,8/12/1988,33/13/2016,F,7868771485,flynntashyar8108@google.com
+11139,OKTUL,"Day, Marvin X.",Ap #193-6118 Luctus Rd.,Tulsa,OK,74146,48/02/1990,49/30/2020,M,2052603212,daymarvinx889@hotmail.com
+11140,OKTUL,"Hurley, Leilani A.",667-8683 Tellus. Av.,Tulsa,OK,74146,54/16/1988,9/5/2017,F,6582146696,hurleyleilania@google.com
+11141,MOJFC,"Hatfield, Anastasia Z.",338-4290 Quam St.,Jefferson City,MO,65101,48/02/2000,8/21/2020,F,5613764630,hatfieldanastasiaz4034@hotmail.com
+11142,MOJFC,"Cummings, Iris S.",770-5773 Ornare St.,Jefferson City,MO,65101,16/23/1997,46/06/2016,F,9911623275,cummingsiriss@yahoo.com
+11143,MOJFC,"Whitfield, Flavia I.",702-7587 Sed Rd.,Jefferson City,MO,65101,42/14/1990,26/19/2019,F,4375039254,whitfieldflaviai@hotmail.com
+11144,MOJFC,"Salas, Brenna Y.",580-1216 Sapien. St.,Jefferson City,MO,65101,32/08/1972,8/10/2020,F,6572587271,salasbrennay1651@yahoo.com
+11145,MOJFC,"Conley, Hillary P.",Ap #523-1826 Dictum Ave,Jefferson City,MO,65101,18/11/1995,16/12/2016,F,5885844646,conleyhillaryp9897@hotmail.com
+11146,MOSPR,"Reilly, Inez J.",9703 Nonummy Av.,Springfield,MO,65804,27/18/1983,19/26/2019,F,593486801,reillyinezj@yahoo.com
+11147,MOSPR,"Robinson, Oren W.",888-6556 In Road,Springfield,MO,65804,43/22/1988,32/05/2018,M,8038832409,robinsonorenw@hotmail.com
+11148,MOSPR,"Mcguire, Macon N.",Ap #817-7881 Scelerisque Rd.,Springfield,MO,65804,14/16/1974,57/03/2015,M,8227267612,mcguiremaconn@google.com
+11149,MOSPR,"Singleton, Madaline S.",838-6065 Eros Street,Springfield,MO,65804,45/10/1988,23/15/2021,F,4952433295,singletonmadalines@hotmail.com
+11150,MOSPR,"Whitley, Winifred J.",Ap #727-7427 Ut Av.,Springfield,MO,65804,25/21/1968,16/04/2019,M,7895749436,whitleywinifredj9639@hotmail.com
+11151,ARLRK,"Phelps, Ulysses U.",7222 Velit Road,Little Rock,AR,72201,30/06/1968,11/21/2016,M,5754473549,phelpsulyssesu@google.com
+11152,ARLRK,"Gamble, Yvette L.","P.O. Box 819, 1462 Mattis. Ave",Little Rock,AR,72201,35/06/1981,47/14/2016,F,3416881283,gambleyvettel8770@google.com
+11153,ARLRK,"House, Wayne A.",220-5325 Donec Av.,Little Rock,AR,72201,25/16/1976,23/01/2017,M,6270612275,housewaynea@google.com
+11154,ARLRK,"Wolfe, Octavia N.",Ap #815-8635 Orci Rd.,Little Rock,AR,72201,33/07/1984,52/21/2016,F,2684568844,wolfeoctavian1560@google.com
+11155,ARLRK,"Boyle, Thor I.",337-4364 Cursus Avenue,Little Rock,AR,72201,1/18/1984,8/18/2020,M,2366450483,boylethori2391@google.com
+11156,ARFAY,"Garcia, Rogan O.","Ap #316-1629 Eu, Street",Fayetville,AR,72703,58/25/1975,52/28/2018,M,2039365798,garciarogano@hotmail.com
+11157,ARFAY,"Fuller, Cheyenne O.",226-5331 Nibh. Rd.,Fayetville,AR,72703,24/17/1988,55/01/2016,F,2223718399,fullercheyenneo3830@google.com
+11158,ARFAY,"Salas, Thaddeus V.","P.O. Box 721, 6898 Sodales Rd.",Fayetville,AR,72703,28/22/1986,33/12/2016,M,4991142405,salasthaddeusv@hotmail.com
+11159,ARFAY,"Maddox, Evangeline B.",Ap #829-7299 Nulla St.,Fayetville,AR,72703,52/01/1969,56/15/2016,F,5218527448,maddoxevangelineb2074@yahoo.com
+11160,ARFAY,"Callahan, Leroy Z.",Ap #955-1788 Varius Road,Fayetville,AR,72703,55/02/1979,4/11/2022,M,5463351233,callahanleroyz3377@hotmail.com

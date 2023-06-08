@@ -1,0 +1,329 @@
+modelid,cyear,cmake,cmodel,carcat,tankcap
+A2021252,2021,Acura,ILX,"[""Sedan""]",14
+A2020996,2020,Acura,TLX,"[""Sedan""]",14
+A2019795,2019,Alfa Romeo,Giulia,"[""Sedan""]",14
+A2022143,2022,Audi,A3,"[""Sedan""]",14
+A2017936,2017,Audi,A4,"[""Sedan""]",14
+A2019951,2019,Audi,A5,"{""Sedan""]",14
+A2020909,2020,Audi,A6,"[""Sedan""]",14
+A2021452,2021,Audi,A7,"[""Sedan""]",14
+A2022248,2022,Audi,A8,"[""Sedan""]",14
+A2018933,2018,Audi,e-tron GT,"[""Sedan""]",14
+A2022868,2022,Audi,RS 3,"[""Sedan""]",14
+A2018679,2018,Audi,RS 5,"[""Sedan""]",14
+A2020315,2020,Audi,RS 7,"[""Sedan""]",14
+A2018289,2018,Audi,RS e-tron GT,"[""Sedan""]",14
+A2018114,2018,Audi,S3,"[""Sedan""]",14
+A2017290,2017,Audi,S4,"[""Sedan""]",14
+A2021588,2021,Audi,S5,"[""Sedan""]",14
+A2021488,2021,Audi,S6,"[""Sedan""]",14
+A2018666,2018,Audi,S7,"[""Sedan""]",14
+A2019479,2019,Audi,S8,"[""Sedan""]",14
+B2019864,2019,BMW,2 Series,"[""Sedan""]",14
+B2019701,2019,BMW,3 Series,"[""Sedan""]",14
+B2018978,2018,BMW,5 Series,"[""Sedan""]",14
+B2020822,2020,BMW,7 Series,"[""Sedan""]",14
+B2021568,2021,BMW,8 Series,"[""Sedan""]",14
+B2017797,2017,BMW,i7,"[""Sedan""]",14
+B2021975,2021,BMW,M3,"[""Sedan""]",14
+B2020569,2020,BMW,M5,"[""Sedan""]",14
+C2018800,2018,Cadillac,CT4,"[""Sedan""]",14
+C2020966,2020,Cadillac,CT5,"[""Sedan""]",14
+C2021405,2021,Chevrolet,Malibu,"[""Sedan""]",14
+C2017841,2017,Chrysler,300,"[""Sedan""]",14
+D2021704,2021,Dodge,Charger,"[""Sedan""]",14
+G2017703,2017,Genesis,Electrified G80,"[""Sedan""]",14
+G2022118,2022,Genesis,G70,"[""Sedan""]",14
+G2020825,2020,Genesis,G80,"[""Sedan""]",14
+G2022681,2022,Genesis,G90,"[""Sedan""]",14
+H2020827,2020,Honda,Accord,"[""Sedan""]",14
+H2018624,2018,Honda,Civic,"[""Sedan""]",14
+H2021905,2021,Honda,Insight,"[""Sedan""]",14
+H2021123,2021,Hyundai,Elantra,"[""Sedan""]",14
+H2018724,2018,Hyundai,Elantra Hybrid,"[""Sedan""]",14
+H2019900,2019,Hyundai,Sonata,"[""Sedan""]",14
+H2020397,2020,Hyundai,Sonata Hybrid,"[""Sedan""]",14
+I2019873,2019,INFINITI,Q50,"[""Sedan""]",14
+J2022372,2022,Jaguar,XF,"[""Sedan""]",14
+K2021424,2021,Kia,Forte,"[""Sedan""]",14
+K2018833,2018,Kia,K5,"[""Sedan""]",14
+K2022331,2022,Kia,Rio,"[""Sedan""]",14
+K2022440,2022,Kia,Stinger,"[""Sedan""]",14
+L2021956,2021,Lexus,ES,"[""Sedan""]",14
+L2022179,2022,Lexus,LS,"[""Sedan""]",14
+L2021884,2021,Lexus,LS,"[""Sedan""]",14
+M2019549,2019,MAZDA,MAZDA3,"[""Sedan""]",14
+M2020999,2020,Mercedes-Benz,E-Class,"[""Sedan""]",14
+M2021495,2021,Mercedes-Benz,Mercedes-EQ EQE,"[""Sedan""]",14
+M2018428,2018,Mercedes-Benz,Mercedes-EQ EQS,"[""Sedan""]",14
+M2021438,2021,Mitsubishi,Mirage G4,"[""Sedan""]",14
+N2017175,2017,Nissan,Altima,"[""Sedan""]",14
+N2019478,2019,Nissan,Maxima,"[""Sedan""]",14
+N2021670,2021,Nissan,Sentra,"[""Sedan""]",14
+N2020191,2020,Nissan,Versa,"[""Sedan""]",14
+S2019428,2019,Subaru,Impreza,"[""Sedan""]",14
+S2019366,2019,Subaru,Legacy,"[""Sedan""]",14
+S2020758,2020,Subaru,WRX,"[""Sedan""]",14
+T2020910,2020,Tesla,Model 3,"[""Sedan""]",14
+T2019392,2019,Tesla,Model S,"[""Sedan""]",14
+T2019302,2019,Toyota,Camry,"[""Sedan""]",14
+T2018859,2018,Toyota,Camry Hybrid,"[""Sedan""]",14
+T2020552,2020,Toyota,Corolla,"[""Sedan""]",14
+T2020665,2020,Toyota,Corolla Hybrid,"[""Sedan""]",14
+T2021279,2021,Toyota,Crown,"[""Sedan""]",14
+V2020170,2020,Volkswagen,Arteon,"[""Sedan""]",14
+V2018304,2018,Volkswagen,Jetta,"[""Sedan""]",14
+V2018994,2018,Volkswagen,Jetta GLI,"[""Sedan""]",14
+V2019895,2019,Volvo,S60,"[""Sedan""]",14
+V2018416,2018,Volvo,S90,"[""Sedan""]",14
+A2019256,2019,Acura,Integra,"[""Hatchback""]",14
+B2018701,2018,BMW,M8,"[""Hatchback""]",14
+C2021166,2021,Chevrolet,Bolt EUV,"[""Hatchback""]",14
+C2018522,2018,Chevrolet,Bolt EV,"[""Hatchback""]",14
+C2022399,2022,Chevrolet,Spark,"[""Hatchback""]",14
+H2022308,2022,Hyundai,Ioniq Hybrid,"[""Hatchback""]",14
+M2021922,2021,MINI,Clubman,"[""Hatchback""]",14
+M2021681,2021,MINI,Hardtop 2 Door,"[""Hatchback""]",14
+M2019957,2019,MINI,Hardtop 4 Door,"[""Hatchback""]",14
+M2019528,2019,Mitsubishi,Mirage,"[""Hatchback""]",14
+N2018726,2018,Nissan,LEAF,"[""Hatchback""]",14
+P2020469,2020,Polestar,2,"[""Hatchback""]",14
+T2018881,2018,Toyota,Corolla Hatchback,"[""Hatchback""]",14
+T2021999,2021,Toyota,Prius,"[""Hatchback""]",14
+V2022555,2022,Volkswagen,Golf GTI,"[""Hatchback""]",14
+V2021411,2021,Volkswagen,Golf R,"[""Hatchback""]",14
+A2020339,2020,Acura,MDX,"[""SUV""]",16
+A2021615,2021,Acura,RDX,"[""SUV""]",16
+A2018754,2018,Alfa Romeo,Stelvio,"[""SUV""]",16
+A2022709,2022,Alfa Romeo,Tonale,"[""SUV""]",16
+A2020255,2020,Audi,e-tron,"[""SUV""]",16
+A2020660,2020,Audi,e-tron S,"[""SUV""]",16
+A2019137,2019,Audi,e-tron S Sportback,"[""SUV""]",16
+A2021413,2021,Audi,e-tron Sportback,"[""SUV""]",16
+A2018237,2018,Audi,Q3,"[""SUV""]",16
+A2020943,2020,Audi,Q5,"[""SUV""]",16
+A2018810,2018,Audi,Q7,"[""SUV""]",16
+A2020469,2020,Audi,Q8,"[""SUV""]",16
+A2017420,2017,Audi,RS Q8,"[""SUV""]",16
+A2022942,2022,Audi,SQ5,"[""SUV""]",16
+A2018820,2018,Audi,SQ5 Sportback,"[""SUV""]",16
+A2020218,2020,Audi,SQ7,"[""SUV""]",16
+A2018755,2018,Audi,SQ8,"[""SUV""]",16
+B2018496,2018,BMW,iX,"[""SUV""]",16
+B2021349,2021,BMW,X1,"[""SUV""]",16
+B2020375,2020,BMW,X2,"[""SUV""]",16
+B2018435,2018,BMW,X3,"[""SUV""]",16
+B2018851,2018,BMW,X3 M,"[""SUV""]",16
+B2020148,2020,BMW,X4,"[""SUV""]",16
+B2020256,2020,BMW,X5,"[""SUV""]",16
+B2018162,2018,BMW,X5 M,"[""SUV""]",16
+B2017947,2017,BMW,X6,"[""SUV""]",16
+B2017900,2017,BMW,X7,"[""SUV""]",16
+B2017735,2017,Buick,Enclave,"[""SUV""]",16
+B2019370,2019,Buick,Encore,"[""SUV""]",16
+B2018176,2018,Buick,Encore GX,"[""SUV""]",16
+B2021941,2021,Buick,Envision,"[""SUV""]",16
+C2020759,2020,Cadillac,Escalade,"[""SUV""]",16
+C2022670,2022,Cadillac,Escalade ESV,"[""SUV""]",16
+C2018241,2018,Cadillac,LYRIQ,"[""SUV""]",16
+C2020608,2020,Cadillac,XT4,"[""SUV""]",16
+C2022706,2022,Cadillac,XT5,"[""SUV""]",16
+C2021739,2021,Cadillac,XT6,"[""SUV""]",16
+C2020680,2020,Chevrolet,Blazer,"[""SUV""]",16
+C2021866,2021,Chevrolet,Equinox,"[""SUV""]",16
+C2019437,2019,Chevrolet,Suburban,"[""SUV""]",16
+C2020624,2020,Chevrolet,Tahoe,"[""SUV""]",16
+C2019486,2019,Chevrolet,Trailblazer,"[""SUV""]",16
+C2020198,2020,Chevrolet,Traverse,"[""SUV""]",16
+C2018180,2018,Chevrolet,Trax,"[""SUV""]",16
+D2019370,2019,Dodge,Durango,"[""SUV""]",16
+D2018420,2018,Dodge,Hornet,"[""SUV""]",16
+F2022398,2022,Ford,Bronco,"[""SUV""]",16
+F2018779,2018,Ford,Bronco Sport,"[""SUV""]",16
+F2022729,2022,Ford,Edge,"[""SUV""]",16
+F2019991,2019,Ford,Escape,"[""SUV""]",16
+F2021560,2021,Ford,Expedition,"[""SUV""]",16
+F2018164,2018,Ford,Expedition MAX,"[""SUV""]",16
+F2018213,2018,Ford,Explorer,"[""SUV""]",16
+F2018835,2018,Ford,Mustang MACH-E,"[""SUV""]",16
+G2019903,2019,Genesis,GV60,"[""SUV""]",16
+G2021956,2021,Genesis,GV70,"[""SUV""]",16
+G2020669,2020,Genesis,GV80,"[""SUV""]",16
+G2020826,2020,GMC,Acadia,"[""SUV""]",16
+G2019476,2019,GMC,Terrain,"[""SUV""]",16
+G2017197,2017,GMC,Yukon,"[""SUV""]",16
+G2017441,2017,GMC,Yukon XL,"[""SUV""]",16
+H2021898,2021,Honda,CR-V,"[""SUV""]",16
+H2021923,2021,Honda,HR-V,"[""SUV""]",16
+H2021998,2021,Honda,Passport,"[""SUV""]",16
+H2021462,2021,Honda,Pilot,"[""SUV""]",16
+H2019745,2019,Hyundai,IONIQ 5,"[""SUV""]",16
+H2020835,2020,Hyundai,Kona,"[""SUV""]",16
+H2022742,2022,Hyundai,Kona Electric,"[""SUV""]",16
+H2019355,2019,Hyundai,Kona N,"[""SUV""]",16
+H2021614,2021,Hyundai,Palisade,"[""SUV""]",16
+H2018199,2018,Hyundai,Santa Fe,"[""SUV""]",16
+H2021452,2021,Hyundai,Santa Fe Plug-in Hybrid,"[""SUV""]",16
+H2021579,2021,Hyundai,Tucson,"[""SUV""]",16
+H2021835,2021,Hyundai,Tucson Hybrid,"[""SUV""]",16
+H2021148,2021,Hyundai,Tucson Plug-in Hybrid,"[""SUV""]",16
+H2021297,2021,Hyundai,Venue,"[""SUV""]",16
+I2020721,2020,INFINITI,QX50,"[""SUV""]",16
+I2017689,2017,INFINITI,QX55,"[""SUV""]",16
+I2021163,2021,INFINITI,QX60,"[""SUV""]",16
+J2021955,2021,Jaguar,E-PACE,"[""SUV""]",16
+J2020220,2020,Jaguar,F-PACE,"[""SUV""]",16
+J2019514,2019,Jaguar,I-PACE,"[""SUV""]",16
+J2018617,2018,Jeep,Compass,"[""SUV""]",16
+J2021653,2021,Jeep,Grand Cherokee,"[""SUV""]",16
+J2020775,2020,Jeep,Grand Cherokee 4xe,"[""SUV""]",16
+J2022910,2022,Jeep,Grand Cherokee L,"[""SUV""]",16
+J2019553,2019,Jeep,Grand Wagoneer,"[""SUV""]",16
+J2017772,2017,Jeep,Grand Wagoneer L,"[""SUV""]",16
+J2017842,2017,Jeep,Renegade,"[""SUV""]",16
+J2018679,2018,Jeep,Wagoneer,"[""SUV""]",16
+J2021665,2021,Jeep,Wagoneer L,"[""SUV""]",16
+J2019538,2019,Jeep,Wrangler,"[""SUV""]",16
+J2018477,2018,Jeep,Wrangler Unlimited,"[""SUV""]",16
+J2020196,2020,Jeep,Wrangler Unlimited 4xe,"[""SUV""]",16
+K2018716,2018,Kia,EV6,"[""SUV""]",16
+K2021663,2021,Kia,Seltos,"[""SUV""]",16
+K2018857,2018,Kia,Sorento,"[""SUV""]",16
+K2021357,2021,Kia,Sorento Hybrid,"[""SUV""]",16
+K2020424,2020,Kia,Sorento Plug-in Hybrid,"[""SUV""]",16
+K2022223,2022,Kia,Sportage,"[""SUV""]",16
+K2021139,2021,Kia,Sportage Hybrid,"[""SUV""]",16
+K2018493,2018,Kia,Sportage Plug-in Hybrid,"[""SUV""]",16
+K2021143,2021,Kia,Telluride,"[""SUV""]",16
+L2022667,2022,Land Rover,Defender 110,"[""SUV""]",16
+L2019302,2019,Land Rover,Defender 130,"[""SUV""]",16
+L2020953,2020,Land Rover,Defender 90,"[""SUV""]",16
+L2018572,2018,Land Rover,Discovery,"[""SUV""]",16
+L2021355,2021,Land Rover,Discovery Sport,"[""SUV""]",16
+L2018944,2018,Land Rover,Range Rover,"[""SUV""]",16
+L2020658,2020,Land Rover,Range Rover Evoque,"[""SUV""]",16
+L2021985,2021,Land Rover,Range Rover Sport,"[""SUV""]",16
+L2018775,2018,Land Rover,Range Rover Velar,"[""SUV""]",16
+L2020256,2020,Lexus,GX,"[""SUV""]",16
+L2019509,2019,Lexus,LX,"[""SUV""]",16
+L2021456,2021,Lexus,NX,"[""SUV""]",16
+L2021685,2021,Lexus,RX,"[""SUV""]",16
+L2018759,2018,Lexus,RZ,"[""SUV""]",16
+L2019508,2019,Lexus,TX,"[""SUV""]",16
+L2018861,2018,Lexus,UX,"[""SUV""]",16
+L2021562,2021,Lincoln,Aviator,"[""SUV""]",16
+L2018358,2018,Lincoln,Corsair,"[""SUV""]",16
+L2018371,2018,Lincoln,Nautilus,"[""SUV""]",16
+L2020445,2020,Lincoln,Navigator,"[""SUV""]",16
+L2021216,2021,Lincoln,Navigator L,"[""SUV""]",16
+M2018743,2018,Maserati,Grecale,"[""SUV""]",16
+M2020325,2020,MAZDA,CX-30,"[""SUV""]",16
+M2021851,2021,MAZDA,CX-5,"[""SUV""]",16
+M2018562,2018,MAZDA,CX-50,"[""SUV""]",16
+M2020652,2020,MAZDA,CX-9,"[""SUV""]",16
+M2018996,2018,MAZDA,CX-90,"[""SUV""]",16
+M2022989,2022,Mercedes-Benz,GLA,"[""SUV""]",16
+M2019790,2019,Mercedes-Benz,GLB,"[""SUV""]",16
+M2020578,2020,Mercedes-Benz,GLC,"[""SUV""]",16
+M2019433,2019,Mercedes-Benz,GLE,"[""SUV""]",16
+M2017170,2017,Mercedes-Benz,GLS,"[""SUV""]",16
+M2020523,2020,Mercedes-Benz,Mercedes-EQ EQB,"[""SUV""]",16
+M2019830,2019,Mercedes-Benz,Mercedes-EQ EQE SUV,"[""SUV""]",16
+M2017196,2017,Mercedes-Benz,Mercedes-EQ EQS SUV,"[""SUV""]",16
+M2018763,2018,MINI,Countryman,"[""SUV""]",16
+M2019142,2019,Mitsubishi,Eclipse Cross,"[""SUV""]",16
+M2022603,2022,Mitsubishi,Outlander,"[""SUV""]",16
+M2019934,2019,Mitsubishi,Outlander PHEV,"[""SUV""]",16
+M2022156,2022,Mitsubishi,Outlander Sport,"[""SUV""]",16
+N2018389,2018,Nissan,Ariya,"[""SUV""]",16
+N2018201,2018,Nissan,Armada,"[""SUV""]",16
+N2020743,2020,Nissan,Kicks,"[""SUV""]",16
+N2018710,2018,Nissan,Murano,"[""SUV""]",16
+N2021973,2021,Nissan,Pathfinder,"[""SUV""]",16
+N2017191,2017,Nissan,Rogue,"[""SUV""]",16
+N2018478,2018,Nissan,Rogue Sport,"[""SUV""]",16
+P2017297,2017,Polestar,3,"[""SUV""]",16
+P2019126,2019,Porsche,Cayenne,"[""SUV""]",16
+P2020287,2020,Porsche,Macan,"[""SUV""]",16
+S2018607,2018,Subaru,Ascent,"[""SUV""]",16
+S2019993,2019,Subaru,Crosstrek,"[""SUV""]",16
+S2021374,2021,Subaru,Forester,"[""SUV""]",16
+S2019735,2019,Subaru,Outback,"[""SUV""]",16
+S2022799,2022,Subaru,Solterra,"[""SUV""]",16
+T2018909,2018,Tesla,Model X,"[""SUV""]",16
+T2021150,2021,Tesla,Model Y,"[""SUV""]",16
+T2018112,2018,Toyota,4Runner,"[""SUV""]",16
+T2020350,2020,Toyota,bZ4X,"[""SUV""]",16
+T2022970,2022,Toyota,C-HR,"[""SUV""]",16
+T2018288,2018,Toyota,Corolla Cross,"[""SUV""]",16
+T2022612,2022,Toyota,Corolla Cross Hybrid,"[""SUV""]",16
+T2021975,2021,Toyota,Highlander,"[""SUV""]",16
+T2020133,2020,Toyota,Highlander Hybrid,"[""SUV""]",16
+T2020443,2020,Toyota,RAV4,"[""SUV""]",16
+T2017416,2017,Toyota,RAV4 Hybrid,"[""SUV""]",16
+T2018453,2018,Toyota,RAV4 Prime,"[""SUV""]",16
+T2020307,2020,Toyota,Sequoia,"[""SUV""]",16
+T2021486,2021,Toyota,Venza,"[""SUV""]",16
+V2020962,2020,VinFast,VF 8,"[""SUV""]",16
+V2017950,2017,VinFast,VF 9,"[""SUV""]",16
+V2019255,2019,Volkswagen,Atlas,"[""SUV""]",16
+V2021675,2021,Volkswagen,Atlas Cross Sport,"[""SUV""]",16
+V2021150,2021,Volkswagen,ID.4,"[""SUV""]",16
+V2018747,2018,Volkswagen,Taos,"[""SUV""]",16
+V2017761,2017,Volkswagen,Tiguan,"[""SUV""]",16
+V2019650,2019,Volvo,C40 Recharge,"[""SUV""]",16
+V2021536,2021,Volvo,XC40,"[""SUV""]",16
+V2021201,2021,Volvo,XC40 Recharge,"[""SUV""]",16
+V2019217,2019,Volvo,XC60,"[""SUV""]",16
+V2022395,2022,Volvo,XC90,"[""SUV""]",16
+C2018152,2018,Chevrolet,Express 2500 Cargo,"[""Van/Minivan""]",20
+C2017260,2017,Chevrolet,Express 3500 Cargo,"[""Van/Minivan""]",20
+C2021794,2021,Chrysler,Pacifica,"[""Van/Minivan""]",20
+C2020431,2020,Chrysler,Pacifica Hybrid,"[""Van/Minivan""]",20
+F2019758,2019,Ford,E-Transit 350 Cargo Van,"[""Van/Minivan""]",20
+F2021689,2021,Ford,Transit Connect Cargo Van,"[""Van/Minivan""]",20
+F2021319,2021,Ford,Transit Connect Passenger Wagon,"[""Van/Minivan""]",20
+G2019937,2019,GMC,Savana 2500 Cargo,"[""Van/Minivan""]",20
+G2018856,2018,GMC,Savana 2500 Passenger,"[""Van/Minivan""]",20
+G2019833,2019,GMC,Savana 3500 Cargo,"[""Van/Minivan""]",20
+G2021192,2021,GMC,Savana 3500 Passenger,"[""Van/Minivan""]",20
+H2020573,2020,Honda,Odyssey,"[""Van/Minivan""]",20
+K2018810,2018,Kia,Carnival,"[""Van/Minivan""]",20
+R2020584,2020,Ram,ProMaster Cargo Van,"[""Van/Minivan""]",20
+R2021308,2021,Ram,ProMaster Window Van,"[""Van/Minivan""]",20
+T2020485,2020,Toyota,Sienna,"[""Van/Minivan""]",20
+C2020364,2020,Chevrolet,Colorado Crew Cab,"[""Pickup""]",22
+C2022114,2022,Chevrolet,Silverado 1500 Crew Cab,"[""Pickup""]",22
+C2021118,2021,Chevrolet,Silverado 1500 Regular Cab,"[""Pickup""]",22
+C2017490,2017,Chevrolet,Silverado 2500 HD Crew Cab,"[""Pickup""]",22
+C2021198,2021,Chevrolet,Silverado 2500 HD Double Cab,"[""Pickup""]",22
+C2022988,2022,Chevrolet,Silverado 2500 HD Regular Cab,"[""Pickup""]",22
+C2022228,2022,Chevrolet,Silverado 3500 HD Regular Cab,"[""Pickup""]",22
+F2020429,2020,Ford,F150 Lightning,"[""Pickup""]",22
+F2021789,2021,Ford,F150 SuperCrew Cab,"[""Pickup""]",22
+F2021159,2021,Ford,Maverick,"[""Pickup""]",22
+F2021855,2021,Ford,Ranger SuperCab,"[""Pickup""]",22
+F2021981,2021,Ford,Ranger SuperCrew,"[""Pickup""]",22
+G2019223,2019,GMC,Canyon Crew Cab,"[""Pickup""]",22
+G2019363,2019,GMC,Hummer EV Pickup,"[""Pickup""]",22
+G2018210,2018,GMC,Sierra 1500 Crew Cab,"[""Pickup""]",22
+G2019178,2019,GMC,Sierra 1500 Double Cab,"[""Pickup""]",22
+G2020185,2020,GMC,Sierra 1500 Regular Cab,"[""Pickup""]",22
+G2020397,2020,GMC,Sierra 2500 HD Regular Cab,"[""Pickup""]",22
+G2022690,2022,GMC,Sierra 3500 HD Regular Cab,"[""Pickup""]",22
+H2018694,2018,Honda,Ridgeline,"[""Pickup""]",22
+H2020485,2020,Hyundai,Santa Cruz,"[""Pickup""]",22
+J2017525,2017,Jeep,Gladiator,"[""Pickup""]",22
+N2020160,2020,Nissan,Frontier Crew Cab,"[""Pickup""]",22
+N2020130,2020,Nissan,Frontier King Cab,"[""Pickup""]",22
+N2022692,2022,Nissan,Titan Crew Cab,"[""Pickup""]",22
+N2020585,2020,Nissan,Titan King Cab,"[""Pickup""]",22
+N2018403,2018,Nissan,TITAN XD Crew Cab,"[""Pickup""]",22
+R2017752,2017,Ram,1500 Classic Crew Cab,"[""Pickup""]",22
+R2021271,2021,Ram,1500 Classic Quad Cab,"[""Pickup""]",22
+R2018225,2018,Ram,1500 Classic Regular Cab,"[""Pickup""]",22
+R2020683,2020,Ram,1500 Crew Cab,"[""Pickup""]",22
+R2017775,2017,Ram,1500 Quad Cab,"[""Pickup""]",22
+T2019125,2019,Tesla,Cybertruck,"[""Pickup""]",22
+T2018654,2018,Toyota,Tacoma Access Cab,"[""Pickup""]",22
+T2021202,2021,Toyota,Tundra CrewMax,"[""Pickup""]",22
